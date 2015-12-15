@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_new">NewActivity</string>
+    <string name="title_activity_demo_recycler">DemoRecycler</string>
+    <string name="title_activity_card_layout">CardLayout</string>
+    <string name="title_activity_grid">GridActivity</string>
+</resources>
